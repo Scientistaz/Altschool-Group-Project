@@ -1,0 +1,17 @@
+body{
+    background-color: black 
+
+}
+.image{
+    width: 150px; 
+    height: 150px;
+    border-radius: 50%;
+    margin: auto;
+}
+section{
+    color: rgba(245, 245, 220, 0.332);
+}
+.inner-section{ color: whitesmoke;
+    margin: auto;
+    width: 50%;
+}
